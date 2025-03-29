@@ -6,3 +6,5 @@ parol = ""
 for i in range(zapros):
     parol += random.choice(storage)
 print(parol)
+
+#коммментарий
